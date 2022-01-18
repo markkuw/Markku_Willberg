@@ -1,0 +1,67 @@
+h2{
+color: red;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: underline;
+}
+h1, .redtext{
+    color: brown;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+#error {
+    background-color: azure;
+    color: yellow;
+    font-size: x-large;
+}
+
+span, strong, em{
+    background-color: brown;
+    border-bottom: 1px;
+
+}
+
+p::first-letter{
+    color:brown;
+}
+
+article > p{
+    background-color: aqua;
+}
+
+.notebox{
+    border: 5px solid rgb(15, 7, 63);
+    padding: .5em;
+}
+
+.notebox.warning{
+    border: background orange;
+    font-weight: bold;
+}
+
+.notebox.danger{
+    background-color: brown;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+mytitle{
+    background-color: chocolate;
+}
+
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover{
+    color: hotpink;
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}

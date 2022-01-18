@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(212, 216, 255);
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: crimson;
+    font-size: larger;
+    margin-bottom: 20px;
+    border: darkblue;
+}
+
+img{
+
+}
+
+h1{
+    color: darkmagenta;
+}
+
+h2{
+    color: darkred;
+}
