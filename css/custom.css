@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+footer, header {
+    background: burlywood;
+    text-align: center;
+}
+form {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn {
+    margin-left:30%;
+    margin-right: 30%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#FbForm {
+    display: flex;
+}
+#Flabel {
+    margin-right:15px;
+    margin-top: 15px;
+}
